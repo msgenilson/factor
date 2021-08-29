@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: black;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: blue;
+}
+
+.title {
+  font-size: 50px;
+}
